@@ -7,9 +7,7 @@ title: About Us
 role: Under Construction
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 
 social: []
 education:
   courses: []
